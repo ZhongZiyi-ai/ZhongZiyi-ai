@@ -13,8 +13,8 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp; -->
+    <img src="https://komarev.com/ghpvc/?username=ZhongZiyi-ai&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -36,7 +36,7 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Zhongziyi-ai。热爱编程、读书、打游戏、旅行。</p>
+<p>&emsp;&emsp;嗨，我是ZhongZiyi-ai。热爱编程、读书、打游戏、旅行。</p>
 <p>&emsp;&emsp;想要自己“实现”各种生活中的小需求，为不懂电脑的人提供一些便利</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -51,7 +51,7 @@
 
 ## 🏢 Work Experience
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/ZhongZiyi-ai/ZhongZiyi-ai@main/assets/images/OIP-C.png" />
 
 - [广东三维家](https://www.3vjia.com/)   📌 2025-06 —— 2025-09
 
@@ -67,30 +67,30 @@
 
 
 </table>
-
+<!-- 
 ## 📊 GitHub 数据统计
 
 
 
 <!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
+<!-- <img src="/github-metrics.svg" /> -->
 
 <!-- GitHub 数据统计 -->
-
+<!-- 
 <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Peter-JXL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Peter-JXL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Peter-JXL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Peter-JXL&theme=dark&hide_border=true" />
-</picture>
+</picture> --> -->
 
 
 
-<!-- GitHub Activity Graph GitHub 活动图
+GitHub Activity Graph GitHub 活动图
 <table>
   <tr>
     <td>
